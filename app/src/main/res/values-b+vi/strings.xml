@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hướng dẫn</string>
+    <string name="enter_a_name">Nhập tên</string>
+    <string name="send">Gửi</string>
+</resources>
