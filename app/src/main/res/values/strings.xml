@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="send">Send</string>
+</resources>
