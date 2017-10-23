@@ -4,4 +4,6 @@
     <string name="send">Send</string>
     <string name="shared_preferences_key">com.simple.training.SHARED_PREFERENCES_KEY</string>
     <string name="saved_my_age">saved my age</string>
+    <string name="send_to">Send To</string>
+    <string name="open">Open</string>
 </resources>
